@@ -1,5 +1,5 @@
-# Impact of extreme weather events for public health and damage costs in the United States
-# Reproductible Research Project2 - Data Science Specialization
+Impact of extreme weather events for public health and damage costs in the United States
+Reproductible Research Project2 - Data Science Specialization
 ---------------------------
 
 ## Synopsis
